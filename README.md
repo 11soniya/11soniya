@@ -1,4 +1,4 @@
-```` markdown
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
