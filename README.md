@@ -121,14 +121,6 @@ Universal CRM integration platform converting business data into AI-ready struct
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=11soniya&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
